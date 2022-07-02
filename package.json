@@ -1,0 +1,17 @@
+{
+  "name": "@alpomoney/shared",
+  "version": "0.0.1",
+  "description": "Types and utility functions which are shared between the Alpomoney client and server",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eldemarkki/alpomoney-shared.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Eldemarkki/alpomoney-shared/issues"
+  },
+  "homepage": "https://github.com/Eldemarkki/alpomoney-shared#readme"
+}
