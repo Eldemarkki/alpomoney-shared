@@ -12,6 +12,10 @@ export type User = {
   username: string
 };
 
+export type UserWithPasswordHash = User & {
+  passwordHash: string
+};
+
 export type SinkId = Brand<string, "SinkId">;
 export type Sink = WithIds<{
   name: string
