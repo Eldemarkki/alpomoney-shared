@@ -1,6 +1,6 @@
 {
   "name": "@alpomoney/shared",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Types and utility functions which are shared between the Alpomoney client and server",
   "main": "index.js",
   "scripts": {},
