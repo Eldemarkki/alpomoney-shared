@@ -41,6 +41,7 @@ export type RecurringTransactionId = Brand<string, "RecurringTransactionId">;
 export type RecurringTransactionFrequency = "daily" | "weekly" | "monthly" | "yearly";
 export type RecurringTransaction = WithIds<{
   name: string,
+  description: string,
   amount: number,
   sinkId: SinkId,
   storageId: StorageId,
